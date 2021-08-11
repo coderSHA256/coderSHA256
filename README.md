@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @coderSHA256
-- 👀 I’m interested in Python/Django, Javascript/React
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Django
+- 👀 I’m interested in Javascript/React && Node/express
+- 🌱 I’m currently learning Node/Express
 - 📫 How to reach me coderSHA256@gmail.com
 
 <!---
